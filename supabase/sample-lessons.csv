@@ -1,0 +1,36 @@
+id,phase,phase_name,order,title,text,unlock_wpm,description
+1,1,Home Row,1,Lesson 1: F & J,fjfj jfjf fjjf jffj fjfj jfjf fjjf jffj fjfj jfjf,0,Place your index fingers on F and J. Feel the bumps.
+2,1,Home Row,2,Lesson 2: D & K,dkdk kdkd dkkd dkdk kdkd dkkd dkdk kdkd dkkd dkdk,10,Use your middle fingers for D (left) and K (right).
+3,1,Home Row,3,Lesson 3: S & L,slsl lsls slls slsl lsls slls slsl lsls slls slsl,15,Ring fingers on S (left) and L (right).
+4,1,Home Row,4,Lesson 4: A & ;,a;a; ;a;a a;;a a;a; ;a;a a;;a a;a; ;a;a a;;a a;a;,15,Pinky fingers on A (left) and semicolon (right).
+5,1,Home Row,5,Lesson 5: Full Home Row,asdfjkl; asdf jkl; fjdk slaj asdfjkl; jkl; asdf fjdk,20,All home row keys. Keep fingers on the home position.
+6,1,Home Row,6,Lesson 6: Home Row Words,a dad fall flask lads ask flak jab jak fall dad lads,25,Real words using only home row keys.
+7,1,Home Row,7,Lesson 7: Home Row Sentences,a sad lass had a flask; a lad had a fall; ask dad,25,Short sentences with home row only. Include the semicolons.
+8,2,Top Row,1,Lesson 8: E & I,ejej eded eiej eded ieie eiei jeje dede edie idle,0,E uses left middle finger. I uses right middle finger.
+9,2,Top Row,2,Lesson 9: R & U,ruru urur ruur ruru urur ruur ruru urur ruur ruru,20,R uses left index. U uses right index finger.
+10,2,Top Row,3,Lesson 10: T & Y,tyty ytyt tyyt tyty ytyt tyyt tyty ytyt tyyt tyty,20,T and Y both use index fingers. Reach up from home row.
+11,2,Top Row,4,Lesson 11: W & O,wowo owow woo wowo owow wowo owow owow woo wow owl,20,W uses left ring. O uses right ring finger.
+12,2,Top Row,5,Lesson 12: Q & P,qpqp pqpq qppq qpqp pqpq qppq qpqp pqpq qppq qpqp,20,Q uses left pinky. P uses right pinky.
+13,2,Top Row,6,Lesson 13: Top Row Words,tree quit rope power sword quite tower wrote power,25,Mix of home and top row keys. Focus on accuracy.
+14,2,Top Row,7,Lesson 14: Top Row Sentences,the quick fox saw two quiet pigs rest at our door,25,Sentences combining home and top row keys.
+15,3,Bottom Row,1,Lesson 15: V & M,vmvm mvmv vmmv vmvm mvmv vmmv vmvm mvmv vmmv vmvm,0,V uses left index. M uses right index finger.
+16,3,Bottom Row,2,Lesson 16: B & N,bnbn nbnb bnnb bnbn nbnb bnnb bnbn nbnb bnnb bnbn,25,B and N both use index fingers. Reach down from home.
+17,3,Bottom Row,3,Lesson 17: C & comma,c,c, ,c,c c,,c c,c, ,c,c c,,c c,c, ,c,c c,,c,25,C uses left middle. Comma uses right middle finger.
+18,3,Bottom Row,4,Lesson 18: X & period,x.x. .x.x x..x x.x. .x.x x..x x.x. .x.x x..x x.x.,25,X uses left ring. Period uses right ring finger.
+19,3,Bottom Row,5,Lesson 19: Z & slash,z/z/ /z/z z//z z/z/ /z/z z//z z/z/ /z/z z//z z/z/,25,Z uses left pinky. Slash uses right pinky.
+20,3,Bottom Row,6,Lesson 20: Bottom Row Words,cave zone vibe bomb next cave zone vibe bomb next,30,Words using bottom row keys mixed with home row.
+21,3,Bottom Row,7,Lesson 21: Full Keyboard,the quick brown fox jumps over the lazy dog,30,The classic pangram. Uses every letter in the alphabet.
+22,4,Numbers & Symbols,1,Lesson 22: 1 & 2,1212 2121 1221 1212 2121 1221 1212 2121 1221 1212,0,Number row — left side. Pinky and ring finger.
+23,4,Numbers & Symbols,2,Lesson 23: 3 & 4,3434 4343 3443 3434 4343 3443 3434 4343 3443 3434,30,Number row — middle left. Middle and index finger.
+24,4,Numbers & Symbols,3,Lesson 24: 5 & 6,5656 6565 5665 5656 6565 5665 5656 6565 5665 5656,30,5 and 6 use index fingers. The center of the number row.
+25,4,Numbers & Symbols,4,Lesson 25: 7 & 8,7878 8787 7887 7878 8787 7887 7878 8787 7887 7878,30,Number row — middle right. Index and middle finger.
+26,4,Numbers & Symbols,5,Lesson 26: 9 & 0,9090 0909 9009 9090 0909 9009 9090 0909 9009 9090,30,Number row — right side. Ring and pinky finger.
+27,4,Numbers & Symbols,6,Lesson 27: Numbers in context,call 911 or text 555-1234 the address is 42 main st,35,Numbers mixed with words. Common real-world patterns.
+28,4,Numbers & Symbols,7,Lesson 28: Common symbols,price: $19.99 score: 100% email: user@test.com #tag,35,Common symbols used in everyday typing.
+29,5,Speed Building,1,Lesson 29: Short Words,the and for are but not you all can her was one,0,High-frequency short words. Focus on rhythm not speed.
+30,5,Speed Building,2,Lesson 30: Common Bigrams,th he in en re er on at es te an or st nt nd,40,Common letter pairs. Smooth transitions between keys.
+31,5,Speed Building,3,Lesson 31: Medium Words,about after again before could every first found going,40,Medium-length words at natural typing speed.
+32,5,Speed Building,4,Lesson 32: Long Words,information government environment understand development,40,Longer words. Stay relaxed and maintain accuracy.
+33,5,Speed Building,5,Lesson 33: Full Sentences,practice makes perfect when you type with all fingers,45,Full sentences. Aim for smooth consistent rhythm.
+34,5,Speed Building,6,Lesson 34: Paragraphs,touch typing is a method of typing using all fingers without looking at the keyboard,45,First paragraph practice. Keep your eyes on the screen.
+35,5,Speed Building,7,Lesson 35: Speed Run,the quick brown fox jumps over the lazy dog five times,50,Classic pangram repeated. Push for speed now that you know the keys.

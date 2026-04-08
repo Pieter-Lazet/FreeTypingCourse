@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@14 . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)",
+      "Bash(npx create-next-app@14 . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes --force)",
+      "Read(//c/Users/Pieter/Desktop/**)",
+      "Bash(npx create-next-app@14 freetypingcourse-app --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)",
+      "Bash(cp -r freetypingcourse-app/. freetypingcourse/ --exclude=\".git\")",
+      "Bash(cp -r freetypingcourse-app/app freetypingcourse/)",
+      "Bash(cp -r freetypingcourse-app/node_modules freetypingcourse/)",
+      "Bash(cp freetypingcourse-app/package.json freetypingcourse/)",
+      "Bash(cp freetypingcourse-app/package-lock.json freetypingcourse/)",
+      "Bash(cp C:/Users/Pieter/Desktop/freetypingcourse-app/package.json C:/Users/Pieter/Desktop/freetypingcourse/package.json)",
+      "Bash(cp C:/Users/Pieter/Desktop/freetypingcourse-app/package-lock.json C:/Users/Pieter/Desktop/freetypingcourse/package-lock.json)",
+      "Bash(cp C:/Users/Pieter/Desktop/freetypingcourse-app/tsconfig.json C:/Users/Pieter/Desktop/freetypingcourse/tsconfig.json)",
+      "Bash(cp C:/Users/Pieter/Desktop/freetypingcourse-app/tailwind.config.ts C:/Users/Pieter/Desktop/freetypingcourse/tailwind.config.ts)",
+      "Bash(cp C:/Users/Pieter/Desktop/freetypingcourse-app/postcss.config.mjs C:/Users/Pieter/Desktop/freetypingcourse/postcss.config.mjs)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
