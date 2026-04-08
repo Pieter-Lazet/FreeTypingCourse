@@ -19,22 +19,23 @@ export default function OgImage() {
           fontFamily: "sans-serif",
         }}
       >
-        {/* Logo */}
         <div
           style={{
-            fontSize: "18px",
+            display: "flex",
+            fontSize: "16px",
             color: "#888888",
             letterSpacing: "0.1em",
             marginBottom: "40px",
-            fontFamily: "monospace",
           }}
         >
           FreeTypingCourse
         </div>
 
-        {/* Headline */}
         <div
           style={{
+            display: "flex",
+            flexDirection: "row",
+            flexWrap: "wrap",
             fontSize: "64px",
             fontWeight: 700,
             color: "#F5F5F5",
@@ -42,13 +43,13 @@ export default function OgImage() {
             marginBottom: "24px",
           }}
         >
-          Learn to type.{" "}
+          <span style={{ marginRight: "16px" }}>Learn to type.</span>
           <span style={{ color: "#6C63FF" }}>Free. Forever.</span>
         </div>
 
-        {/* Subheadline */}
         <div
           style={{
+            display: "flex",
             fontSize: "24px",
             color: "#888888",
             marginBottom: "60px",
@@ -57,8 +58,7 @@ export default function OgImage() {
           50 lessons · WPM tracking · No ads · No payment
         </div>
 
-        {/* Stats row */}
-        <div style={{ display: "flex", gap: "40px" }}>
+        <div style={{ display: "flex", flexDirection: "row", gap: "40px" }}>
           {[
             ["50", "Free lessons"],
             ["5", "Phases"],
@@ -66,20 +66,9 @@ export default function OgImage() {
           ].map(([val, label]) => (
             <div
               key={label}
-              style={{
-                display: "flex",
-                flexDirection: "column",
-                gap: "4px",
-              }}
+              style={{ display: "flex", flexDirection: "column", gap: "4px" }}
             >
-              <span
-                style={{
-                  fontSize: "36px",
-                  fontWeight: 600,
-                  color: "#F5F5F5",
-                  fontFamily: "monospace",
-                }}
-              >
+              <span style={{ fontSize: "36px", fontWeight: 600, color: "#F5F5F5" }}>
                 {val}
               </span>
               <span style={{ fontSize: "14px", color: "#888888" }}>{label}</span>
